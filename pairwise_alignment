@@ -1,0 +1,3194 @@
+BLASTN 2.10.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: celegansMRNA
+           20,191 sequences; 63,596,602 total letters
+
+
+
+Query= Cel-Bantam-P1_pre
+
+Length=67
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00022059|WBGene00022059.1|Y67D8A.2a.2;Y67D8A.2l.2;Y67D8A.2d...  124        7e-29
+
+
+
+Query_1  1      TGCCCTACTCTTCGCATCTCATCACTTCGTCCAATACCATAGGGATGAGATCGTTCAGTA  60
+19685    10830  ............................................................  10889
+
+Query_1  61     CGGCAAT  67
+19685    10890  .......  10896
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Bantam-P2_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Bantam-P3_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00020301|WBGene00020301.1|T07D1.2.1;T07D1.2.2|T07D1.2           119        3e-27
+
+
+
+Query_3  1     CGGTTTTCACCGTGATCTGAGAGCAATCCAAAAATGCTTTTCTGAGATCATCGTGAAAGC  60
+16582    8063  ............................................................  8004
+
+Query_3  61    TAGT  64
+16582    8003  ....  8000
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Bantam-P4_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00020301|WBGene00020301.1|T07D1.2.1;T07D1.2.2|T07D1.2           113        1e-25
+
+
+
+Query_4  1     CGGTTTTCTCTGTGATCTACAGAATGACAGCTAATCGTCTGAGATCATCGTGAAAGCCAG  60
+16582    3826  ............................................................  3885
+
+Query_4  61    T  61
+16582    3886  .  3886
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Bantam-P5a_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Bantam-P5b_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Bantam-P5c_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Let-7-P5_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00050939|WBGene00050939.1|C05G5.7.1|C05G5.7                     121        9e-28
+
+
+
+Query_8  1    TGAGGTAGTAGGTTGTATAGTTTGGAATATTACCACCGGTGAACTATGCAATTTTCTACC  60
+18913    173  ............................................................  232
+
+Query_8  61   TTACC  65
+18913    233  .....  237
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Let-7-P6_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Let-7-P7_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Let-7-P8_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Let-7-P9_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009361|WBGene00009361.1|F33E2.5.2;F33E2.5.1|F33E2.5           113        1e-25
+
+
+
+Query_12  1     TGAGGTAGATTGATCAGCGAGCTTGATACCCCGTTCAAAATCGTGATCAGTATACTTCGT  60
+8149      2860  ............................................................  2801
+
+Query_12  61    C  61
+8149      2800  .  2800
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Lsy-6_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-2-o10_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008878|WBGene00008878.1|F16A11.3d.1;F16A11.3a.1;F16A11.3c...  119        3e-27
+
+
+
+Query_15  1      CATCAAAGCGGTGGTTGATGTGTTGCAAATTATGACTTTCATATCACAGCCAGCTTTGAT  60
+7926      17137  ............................................................  17196
+
+Query_15  61     GTGC  64
+7926      17197  ....  17200
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-2-o11_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-2-P11_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-2-o13_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-8_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-9-P17_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-9-P18_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-9-P19_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-10-P1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-10-P2l_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-10-P3e_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00019128|WBGene00019128.1|F59G1.4a.1;F59G1.4b.1|F59G1.4         113        1e-25
+
+
+
+Query_25  1     TCCCTGAGACCTCAAGTGTGAGTGTACTATTGATGCTTCACACCTGGGCTCTCCGGGTAC  60
+13418     6100  ............................................................  6159
+
+Query_25  61    C  61
+13418     6160  .  6160
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-10-P3f_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-22-P2_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00022650|WBGene00022650.1|ZK84.2.1|ZK84.2                       113        1e-25
+
+
+
+Query_27  1     AGTTTCTCTGGGAAAGCTATCGGCCAAATTTAACTGTCCGAGCTGCCCTCAGAAAAACTC  60
+20057     1196  ............................................................  1255
+
+Query_27  61    T  61
+20057     1256  .  1256
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-29-P1_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-29-P2_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-31_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-34_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-36-P1_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   113        1e-25
+
+
+
+Query_32  1     TGCTGGTTTCTTCCACAGTGGTACTTTCCATTAGAACTATCACCGGGTGGAAACTAGCAG  60
+6628      1213  ............................................................  1154
+
+Query_32  61    T  61
+6628      1153  .  1153
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-36-P2_pre
+
+Length=63
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   117        1e-26
+
+
+
+Query_33  1     CGCCAATTTTCGCTTCAGTGCTAGACCATCCAAAGTGTCTATCACCGGGTGAAAATTCGC  60
+6628      1110  ............................................................  1051
+
+Query_33  61    ATG  63
+6628      1050  ...  1048
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-36-P3_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   113        1e-25
+
+
+
+Query_34  1    TGTGGGTGTCCGTTGCGGTGCTACATTCTCTAATCTGTATCACCGGGTGAACACTTGCAG  60
+6628      988  ............................................................  929
+
+Query_34  61   T  61
+6628      928  .  928
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-36-P4_pre
+
+Length=63
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   117        1e-26
+
+
+
+Query_35  1    TCCGGTTTTTTCCGTGGTGATAACGCATCCAAAAGTCTCTATCACCGGGAGAAAAACTGG  60
+6628      893  ............................................................  834
+
+Query_35  61   AGT  63
+6628      833  ...  831
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-36-P5_pre
+
+Length=62
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   115        4e-26
+
+
+
+Query_36  1    AGCTGATTTCGTCTTGGTAATAAGCTCGTCATTGAGATTATCACCGGGTGTAAATCAGCT  60
+6628      739  ............................................................  680
+
+Query_36  61   TG  62
+6628      679  ..  678
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-36-P6_pre
+
+Length=62
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   115        4e-26
+
+
+
+Query_37  1    AGTGGATGTATGCCATGATGATAAGATATCAGAAATCCTATCACCGGGTGTACATCAGCT  60
+6628      643  ............................................................  584
+
+Query_37  61   AA  62
+6628      583  ..  582
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-36-P7_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013387|WBGene00013387.1|Y62F5A.9.1|Y62F5A.9                   122        3e-28
+
+
+
+Query_38  1    GGTGGTTTTTCTCTGCAGTGATAGATACTTCTAACAACTCGCTATCACCGGGTGAAAAAT  60
+6628      518  ............................................................  459
+
+Query_38  61   CACCTA  66
+6628      458  ......  453
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-36-P8_pre
+
+Length=69
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2968162800
+
+
+Query= Cel-Mir-52-P1_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-52-P2_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-54-P1_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008600|WBGene00008600.1|F09A5.3b.1;F09A5.3a.1|F09A5.3         122        3e-28
+
+
+
+Query_42  1     AGGATATGAGACGACGAGAACATTGCTTTTTTAAAAGACTTGTACCCGTAATCTTCATAA  60
+6186      3476  ............................................................  3417
+
+Query_42  61    TCCGAG  66
+6186      3416  ......  3411
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-54-P2_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008600|WBGene00008600.1|F09A5.3b.1;F09A5.3a.1|F09A5.3         113        1e-25
+
+
+
+Query_43  1     CGGCAGAAACCTATCGGTTATACTTTTTGGATATGCTATACCCGTATAAGTTTCTGCTGA  60
+6186      3302  ............................................................  3243
+
+Query_43  61    G  61
+6186      3242  .  3242
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-54-P3_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008600|WBGene00008600.1|F09A5.3b.1;F09A5.3a.1|F09A5.3         121        9e-28
+
+
+
+Query_44  1     TGGCGGATCCATTTTGGGTTGTACCTCATCCTAAATTTGACGGTACCCGTAATGTTTCCG  60
+6186      3170  ............................................................  3111
+
+Query_44  61    CTGAG  65
+6186      3110  .....  3106
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-59_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-62_pre
+
+Length=58
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00011564|WBGene00011564.1|T07C5.1e.1;T07C5.1b.1;T07C5.1c.1;...  108        6e-24
+
+
+
+Query_46  1     GTGAGTTAGATCTCATATCCTTCCGCAAAATGGAAATGATATGTAATCTAGCTTACAG  58
+9750      1036  ..........................................................  1093
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2273486400
+
+
+Query= Cel-Mir-63_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-65-P1_pre
+
+Length=62
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00021697|WBGene00021697.1|Y48G9A.3.1|gcn-1                      115        4e-26
+
+
+
+Query_48  1      TATGACACTGAAGCGTAACCGAACACCATATTTTGAGATTCTGCTACGCGCAGTGCCATG  60
+17764     21052  ............................................................  21111
+
+Query_48  61     CT  62
+17764     21112  ..  21113
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-65-P2_pre
+
+Length=68
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00021697|WBGene00021697.1|Y48G9A.3.1|gcn-1                      126        2e-29
+
+
+
+Query_49  1      TATGACACTGAAGCGTTACCGAACCGTTTTCCCACACCTGGATTCGGTGCAACGATCAGT  60
+17764     20902  ............................................................  20961
+
+Query_49  61     GGCATGCT  68
+17764     20962  ........  20969
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2905010400
+
+
+Query= Cel-Mir-65-P3_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00021697|WBGene00021697.1|Y48G9A.3.1|gcn-1                      121        9e-28
+
+
+
+Query_50  1      CATGACACTGATTAGGGATGTGATGAATGTTAAGATCCCGATCAAATTCCTAACGGTGTC  60
+17764     21157  ............................................................  21216
+
+Query_50  61     AAACA  65
+17764     21217  .....  21221
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-67_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00006987|WBGene00006987.1|EGAP1.3.1|zmp-1                       121        9e-28
+
+
+
+Query_51  1     CGCTCATTCTGCCGGTTGTTATGCTATTATCAGATTAAGCATCACAACCTCCTAGAAAGA  60
+2804      1526  ............................................................  1585
+
+Query_51  61    GTAGA  65
+2804      1586  .....  1590
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-70_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00004062|WBGene00004062.1|T10H9.5c.1;T10H9.5a.1|pmp-5           111        5e-25
+
+
+
+Query_52  1    CGAAATACTATCGACGAATAACACTTATGAAGAAATGTAATACGTCGTTGGTGTTTCCAT  60
+2610      203  ............................................................  262
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-71_pre
+
+Length=59
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008878|WBGene00008878.1|F16A11.3d.1;F16A11.3a.1;F16A11.3c...  110        2e-24
+
+
+
+Query_53  1      TGAAAGACATGGGTAGTGAGACGTCGGAGCCTCGTCGTATCACTATTCTGTTTTTCGCC  59
+7926      9978   ...........................................................  10036
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-73-P1_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-73-P2_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-76_pre
+
+Length=67
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-77_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-85_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009901|WBGene00009901.1|F49E12.8.1|F49E12.8                   122        3e-28
+
+
+
+Query_58  1    CCGATTTTTCAATAGTTTGAAACCAGTGTACACATAAATGGTTACAAAGTATTTGAAAAG  60
+9315      628  ............................................................  569
+
+Query_58  61   TCGTGC  66
+9315      568  ......  563
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-86_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013228|WBGene00013228.1|Y56A3A.7b.1;Y56A3A.7a.1|Y56A3A.7      122        3e-28
+
+
+
+Query_59  1      TAAGTGAATGCTTTGCCACAGTCTTCGATGTTCTGAAATGAAGCCTGGGCTCAGATTCGC  60
+10144     10299  ............................................................  10358
+
+Query_59  61     TTAGGC  66
+10144     10359  ......  10364
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-87-o5_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00002241|WBGene00002241.1|F10C2.2.1|kup-1                       122        3e-28
+
+
+
+Query_60  1     CGCCTGATACTTTCGTCTCAACCTCGCTGTCAGATTGGTCGTAGGTGAGCAAAGTTTCAG  60
+1523      2109  ............................................................  2168
+
+Query_60  61    GTGTGC  66
+1523      2169  ......  2174
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-87-o6_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00012226|WBGene00012226.1|W03G11.4.1;W03G11.4.3;W03G11.4.2|...  121        9e-28
+
+
+
+Query_61  1      TCGCCCATCCCGTTGCTCCAATATTCTAACAACAAGTGATTATTGAGCAATGCGCATGTG  60
+6736      14418  ............................................................  14477
+
+Query_61  61     CGGGA  65
+6736      14478  .....  14482
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-90_pre
+
+Length=69
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00010475|WBGene00010475.1|K01F9.2.1|K01F9.2                     128        6e-30
+
+
+
+Query_62  1     CGGCTTTCAACGACGATATCAACCGACAACTCACACTTTTGCGTGTTGATATGTTGTTTG  60
+7386      3060  ............................................................  3119
+
+Query_62  61    AATGCCCCT  69
+7386      3120  .........  3128
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2968162800
+
+
+Query= Cel-Mir-92_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-96-P2_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-96-P3_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-124_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00007801|WBGene00007801.1|C29E6.2a.1;C29E6.2b.1|trpa-1          119        3e-27
+
+
+
+Query_66  1     GCATGCACCCTAGTGACTTTAGTGGACATCTAAGTCTTCCAACTAAGGCACGCGGTGAAT  60
+5665      7224  ............................................................  7283
+
+Query_66  61    GCCA  64
+5665      7284  ....  7287
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-133_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-137_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-190_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00006771|WBGene00006771.1|Y71G12B.11a.1;Y71G12B.11e.1;Y71G1...  119        3e-27
+
+
+
+Query_69  1      TGATATGTCTGGTATTCTTGGGTTTGAACTTCCAGCGTTGAACCCGCATATTAGACGTAT  60
+4095      17059  ............................................................  17118
+
+Query_69  61     CGAC  64
+4095      17119  ....  17122
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-193-P1-v1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-193-P1-v2_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-193-P2-v1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-193-P2-v2_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-216-P1_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-229_pre
+
+Length=103
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00021697|WBGene00021697.1|Y48G9A.3.1|gcn-1                      191        1e-48
+
+
+
+Query_75  1      AATGACACTGGTTATCTTTTCCATCGTGGAATGCCCCCCATTGATTTTTTCCCCTTTTCG  60
+17764     20492  ............................................................  20551
+
+Query_75  61     GGGGGAAAAAATTGGAAACGAGAAAGGTATCGGGTGTCATAGC  103
+17764     20552  ...........................................  20594
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5050576720
+
+
+Query= Cel-Mir-230_pre
+
+Length=67
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-231_pre
+
+Length=67
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-238_pre
+
+Length=68
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2905010400
+
+
+Query= Cel-Mir-242_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-243_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00019955|WBGene00019955.1|R08C7.12b.1;R08C7.12d.1;R08C7.12c...  119        3e-27
+
+
+
+Query_80  1    TATCTCGGTGCGATCGTACCGTATCGCTCACACTTAGATTACGGTACGATCGCGGCGGGA  60
+19256     799  ............................................................  858
+
+Query_80  61   TATC  64
+19256     859  ....  862
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-246_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-248-v1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-248-v2_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-249_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-252-P1_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00043534|WBGene00043534.1|W02B12.13b.1;W02B12.13a.1|W02B12.13   119        3e-27
+
+
+
+Query_85  1     ATAAGTAGTAGTGCCGCAGGTAACCGCCAGTCTAAAAGGCTTACCTACTGCCTTCTGCTT  60
+18404     1652  ............................................................  1593
+
+Query_85  61    AAAA  64
+18404     1592  ....  1589
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-252-P2_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-253_pre
+
+Length=65
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00018427|WBGene00018427.1|F44E7.5a.2;F44E7.5b.1;F44E7.5a.1|...  121        9e-28
+
+
+
+Query_87  1    CTTTTCACACACCTCACTAACACTGACCACCGATGCATAGATGTTAGTAGGCGTTGTGGG  60
+15436     352  ............................................................  411
+
+Query_87  61   AAGGG  65
+15436     412  .....  416
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-254_pre
+
+Length=63
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00001536|WBGene00001536.1|ZK455.2.1|gcy-9                       117        1e-26
+
+
+
+Query_88  1     TACAGAAGCATAGATTTCCACAAACCATTCGAGGTGTTTGTGCAAATCTTTCGCGACTGT  60
+1244      4690  ............................................................  4749
+
+Query_88  61    AGG  63
+1244      4750  ...  4752
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-255_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-277_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-279-o7_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-279-o8_pre
+
+Length=67
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-279-o9_pre
+
+Length=57
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2210334000
+
+
+Query= Cel-Mir-279-o10_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-281-P3_pre
+
+Length=68
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2905010400
+
+
+Query= Cel-Mir-281-P4_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-305-P1_pre
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2715553200
+
+
+Query= Cel-Mir-305-P2_pre
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-315_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-355_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-357_pre
+
+Length=63
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00017797|WBGene00017797.1|F25G6.2.1|symk-1                      117        1e-26
+
+
+
+Query_101  1      CCCTACAACGCTGCGCATATGCATGAACACAATGAAAATGTAAATGCCAGTCGTTGCAGG  60
+15265      10317  ............................................................  10258
+
+Query_101  61     AGT  63
+15265      10257  ...  10255
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-358-v1_pre
+
+Length=69
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00017797|WBGene00017797.1|F25G6.2.1|symk-1                      128        6e-30
+
+
+
+Query_102  1      ACCTGGCCAGGCATTCCAACTGTCAAACTTACAAAGCTTTCTCGACAATTGGTATCCCTG  60
+15265      10638  ............................................................  10579
+
+Query_102  61     TCAAGGTCT  69
+15265      10578  .........  10570
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2968162800
+
+
+Query= Cel-Mir-358-v2_pre
+
+Length=69
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00017797|WBGene00017797.1|F25G6.2.1|symk-1                      128        6e-30
+
+
+
+Query_103  1      ACCTGGCCAGGCATTCCAACTGTCAAACTTACAAAGCTTTCTCGACAATTGGTATCCCTG  60
+15265      10638  ............................................................  10579
+
+Query_103  61     TCAAGGTCT  69
+15265      10578  .........  10570
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2968162800
+
+
+Query= Cel-Mir-375_pre
+
+Length=68
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2905010400
+
+
+Query= Cel-Mir-392-v1_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-392-v2_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-784_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-785_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-787_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-788-v1_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-788-v2_pre
+
+Length=60
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-789-P1_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013119|WBGene00013119.1|Y51H4A.25a.1;Y51H4A.25e.1;Y51H4A....  122        3e-28
+
+
+
+Query_112  1     AATTGATGACCCAGACAAGGACTAATCAAGATTGTCGATCTAGTCCCTGCCTGGGTCACC  60
+7919       4445  ............................................................  4386
+
+Query_112  61    AATTGT  66
+7919       4385  ......  4380
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-789-P2_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00012135|WBGene00012135.1|T28F3.9.1|T28F3.9                     122        3e-28
+
+
+
+Query_113  1    AATTGATGACTCAGGCAGGGACTAATCATGATTGTCGATTTAGTCCCTGCCTGGGTCACC  60
+8497       863  ............................................................  804
+
+Query_113  61   AATTGT  66
+8497       803  ......  798
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-791_pre
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2589248400
+
+
+Query= Cel-Mir-792_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-794_pre
+
+Length=59
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009361|WBGene00009361.1|F33E2.5.2;F33E2.5.1|F33E2.5           110        2e-24
+
+
+
+Query_116  1     TGAGGTAATCATCGTTGTCACTTCGCAAAGTTGGAATTGAAAACGTTGTCTATCTCGAA  59
+8149       1739  ...........................................................  1681
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-796_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-799_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-800_pre
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2336638800
+
+
+Query= Cel-Mir-1817_pre
+
+Length=67
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-1819_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-1821_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-1823-v1_pre
+
+Length=58
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2273486400
+
+
+Query= Cel-Mir-1823-v2_pre
+
+Length=58
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2273486400
+
+
+Query= Cel-Mir-1829-P1_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00001520|WBGene00001520.1|K09A9.5.1|gas-1                       111        5e-25
+
+
+
+Query_125  1     AAGGGGACTTCTAATTGTTTGTAAAAAATCGAGTATTACAACCATTGGAATTTCTCTATT  60
+1224       2028  ............................................................  2087
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-1829-P2_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00008975|WBGene00008975.1|F20D1.3.1|F20D1.3                     111        5e-25
+
+
+
+Query_126  1     AAGCGATCTTCTAGATGGTTGTAAAACATCGAGTATTACAACCACTGGAATTTCTCTATT  60
+8854       1003  ............................................................  1062
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-1829-P3_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009552|WBGene00009552.1|F39B1.1.1|piki-1                      111        5e-25
+
+
+
+Query_127  1      AAGCGAAATTCAAGATGGTTGTAAAACATCGAGTACTACAACCACTGGAATTTCTCTATT  60
+6204       9943   ............................................................  10002
+6204       9138   ...T...G.....................T..............................  9197
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-1829-P4_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009552|WBGene00009552.1|F39B1.1.1|piki-1                      111        5e-25
+
+
+
+Query_128  1     AAGAGCGCTTGTAGTGAGTTGTCAAAAATTGAGTATGACAACCACTGCAATTTCTCTATT  60
+6204       3523  ............................................................  3582
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-1830_pre
+
+Length=70
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00015116|WBGene00015116.1|B0286.3.1|pacs-1                      130        2e-30
+
+
+
+Query_129  1    CGAGGTTTCACGTTTTCTAGGCCACGCCGCAAATAGCCAGCTTGTGGCCTAGGAAATGAG  60
+12433      691  ............................................................  750
+
+Query_129  61   AAAACTCGGC  70
+12433      751  ..........  760
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3031315200
+
+
+Query= Cel-Mir-1832-P1_pre
+
+Length=64
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00004705|WBGene00004705.1|C18D11.4b.1;C18D11.4a.1;C18D11.4a...  119        3e-27
+
+
+
+Query_130  1     CAGCGATTCGAACTCCGCCCACTGCACCTGATTGGTTGACAAGTGGGCGGAGCGAATCGA  60
+4849       3034  ............................................................  3093
+
+Query_130  61    TGAT  64
+4849       3094  ....  3097
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2652400800
+
+
+Query= Cel-Mir-1832-P2_pre
+
+Length=67
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00013804|WBGene00013804.1|Y116A8C.27a.2;Y116A8C.27a.1;Y116A...  124        7e-29
+
+
+
+Query_131  1     CAGCGAATCGCTCGGCCCACTTTTGTGAACCAATCAGCGTCAAAAGTGGGCAGAGCGATT  60
+11481      3360  ............................................................  3419
+
+Query_131  61    CGCTGAT  67
+11481      3420  .......  3426
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2841858000
+
+
+Query= Cel-Mir-1993_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-2001_pre
+
+Length=62
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526096000
+
+
+Query= Cel-Mir-2208-P1_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-2208-P2_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-2210_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-2218-P1_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00012371|WBGene00012371.1|W09G3.8a.2;W09G3.8a.1;W09G3.8b.1|...  111        5e-25
+
+
+
+Query_137  1     CAAACTACAAGTTTTAAGCCTCACCAAAAGTTGGGTGAGGCCAGAATAGTGTAGTTTGTA  60
+9944       1760  ............................................................  1701
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-2218-P2_pre
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-2221_pre
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-2953_pre
+
+Length=61
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00018301|WBGene00018301.1|F41G3.5.1|F41G3.5                     113        1e-25
+
+
+
+Query_140  1    TACAGAAGTGTTCGTGAAAATAAATATGTGttttttttATGATCACTAGCTCTTCTGTAG  60
+13655      479  ............................................................  538
+
+Query_140  61   C  61
+13655      539  .  539
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2462943600
+
+
+Query= Cel-Mir-4806_pre
+
+Length=54
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00004310|WBGene00004310.1|C44C11.1b;C44C11.1a.1|ras-1           100        9e-22
+
+
+
+Query_141  1     CACTTACCGGCTGAGCCATGCGCGCTGCGCTGCATAGCTCAGCCGGTAAGAGGC  54
+6024       5879  ......................................................  5932
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2020876800
+
+
+Query= Cel-Mir-4808_pre
+
+Length=57
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2210334000
+
+
+Query= Cel-Mir-4813_pre
+
+Length=60
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00009440|WBGene00009440.1|F35G12.2.2;F35G12.2.1;F35G12.2.3|...  111        5e-25
+
+
+
+Query_143  1     AGACTATCTAGGAAATATTGAACTAATACAAATTTTAGTTCAATATACCGGATGGTCTGG  60
+8466       4324  ............................................................  4383
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2399791200
+
+
+Query= Cel-Mir-4814_pre
+
+Length=66
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00012306|WBGene00012306.1|W06F12.2d.1;W06F12.2c.1;W06F12.2b...  122        3e-28
+WBGene00015223|WBGene00015223.1|B0507.6.1|B0507.6                     110        2e-24
+
+
+
+Query_144  1     TTCTCAACCAACTTTGGCCACTTTTCAACTGCCATTCACAGAAGTGGGCAAAGTTGGTTG  60
+6307       3185  ............................................................  3244
+12732      481   ..........................................................-.  539
+
+Query_144  61    AGAAGT  66
+6307       3245  ......  3250
+12732      540   .-....  544
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2778705600
+
+
+Query= Cel-Mir-5594_pre
+
+Length=58
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+WBGene00010786|WBGene00010786.1|K12D12.4.1|K12D12.4                   108        6e-24
+
+
+
+Query_145  1    AAGAGTACTGTAGTTTCAAAATTTCATTGATTAAAATTTTGAACTACAGTACTCTTCA  58
+6858       320  ..........................................................  377
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2273486400
+
+
+  Database: celegansMRNA
+    Posted date:  May 5, 2020  11:59 AM
+  Number of letters in database: 63,596,602
+  Number of sequences in database:  20,191
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
