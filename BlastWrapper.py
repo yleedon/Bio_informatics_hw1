@@ -15,6 +15,8 @@ class blastWrapper:
         cmd = "{0}makeblastdb -in {1} -title {2} -dbtype nucl -out {3}/{2}".format(self.initial_set, path_to_sequences, title, output_directory)
         os.system(cmd)
 
-    def run_blast_search(self, blast_db_name, mi_rna_file_path = "/Users/yanivleedon/Desktop/BioInformaticsAssignment1/RawData/celegans-precursor.fasta", e_value_threshold: str = "1e-10", out_format:  str = "6", outputfile_path: str = "/Users/yanivleedon/Desktop/BioInformaticsAssignment1/res_blastn_compact"):
-        cmd = "{0}blastn -db {1} -query {2} -out {3} -outfmt {4} -evalue {5}  ".format(self.initial_set, blast_db_name, mi_rna_file_path, outputfile_path, out_format, e_value_threshold)
+    def run_blast_search(self, blast_db_name, mi_rna_file_path = "/Users/yanivleedon/Desktop/BioInformaticsAssignment1/RawData/celegans-precursor.fasta", e_value_threshold: str = "1e-10",
+                         out_format:  str = "6", outputfile_path: str = "/Users/yanivleedon/Desktop/BioInformaticsAssignment1/res_blastn_compact",
+                         additional_arguments: list = []):
+        cmd = "{0}blastn -db {1} -query {2} -out {3} -outfmt {4} -evalue {5} {6}".format(self.initial_set, blast_db_name, mi_rna_file_path, outputfile_path, out_format, e_value_threshold, " ".join(additional_arguments))
         os.system(cmd)
